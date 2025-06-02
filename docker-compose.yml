@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  digital_marketplace:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - ALGORAND_NODE=https://testnet-api.algonode.cloud
+      - GITHUB_HANDLE=adeelarifkhan
