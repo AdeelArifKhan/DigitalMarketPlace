@@ -2,6 +2,8 @@
 
 A Python implementation of a digital marketplace smart contract on the Algorand blockchain.
 
+""This is inprocess phase before testing"
+
 ## Features
 
 - Fixed total supply of 100 million tokens with 8 decimal precision
